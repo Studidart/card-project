@@ -57,7 +57,7 @@ body {
 
 .stat {
     display: flex;
-    justify-content: space-between;
+    justify-content: static;
     width: 90px;
 }
 
