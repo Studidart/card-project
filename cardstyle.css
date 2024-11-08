@@ -56,8 +56,9 @@ body {
 }
 
 .stat {
+    position: static;
     display: flex;
-    justify-content: static;
+    justify-content: space-between;
     width: 90px;
 }
 
