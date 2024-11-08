@@ -58,11 +58,12 @@ body {
 .stat {
     position: static;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     width: 90px;
 }
 
 .value {
+    position: static;
     font-size: 24px;
 }
 
