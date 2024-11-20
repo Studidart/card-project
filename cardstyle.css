@@ -37,6 +37,8 @@ body {
 
 .image-section {
     position: relative;
+    height: 100px;
+    width: 90px;
     overflow: hidden;
 }
 
