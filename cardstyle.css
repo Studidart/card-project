@@ -52,7 +52,7 @@ body {
     left: 10px;
     color: white;
     display: flex;
-    flex-direction: grid;
+    flex-direction: column;
     gap: 10px;
     font-size: 12px;
 }
@@ -74,8 +74,14 @@ body {
     justify-content: center;
     gap: 4px;
     padding: 10px 0;
+    color: transparent;
 }
 
+.bar {
+    width: 25px;
+    height: 8px;
+    border-radius: 2px;
+}
 
 .bar.red {
     background-color: red;
