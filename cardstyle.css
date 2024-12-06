@@ -89,6 +89,7 @@ body {
 }
 
 .bar {
+    display: flex;
     width: 25px;
     height: 8px;
     border-radius: 2px;
