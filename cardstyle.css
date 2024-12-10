@@ -1,5 +1,6 @@
 .cardgrid{
     display: grid 
+    grid-template-columns: will add stuff here.
 }
 
 
