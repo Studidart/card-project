@@ -45,8 +45,6 @@ body {
 
 .stats {
     position: flex;
-    top: 10px;
-    left: 10px;
     color: white;
     display: flex;
     flex-direction: column;
