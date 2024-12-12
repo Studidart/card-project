@@ -44,13 +44,16 @@ body {
 }
 
 .stats {
-    position: flex;
+    display: flex;              /* Enables Flexbox */
+    justify-content: space-between; /* Even spacing between items */
+    align-items: center;        /* Aligns items vertically */
+    padding: 10px;              /* Adds padding inside the container */
+    background-color: #111;     /* Optional: background for clarity */
+    font-size: 12px;            /* Text size */
     color: white;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    font-size: 12px;
+    gap: 10px;                  /* Spacing between items */
 }
+
 
 .status-bar {
     display: flex;
