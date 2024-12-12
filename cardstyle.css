@@ -44,7 +44,7 @@ body {
 }
 
 .stats {
-    position: absolute;
+    position: flex;
     top: 10px;
     left: 10px;
     color: white;
