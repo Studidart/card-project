@@ -1,6 +1,6 @@
-.cardgrid{
-    display: grid 
-    grid-template-columns: will add stuff here.
+.cardgrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 
