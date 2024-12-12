@@ -47,9 +47,9 @@ body {
     display: flex;              /* Enables Flexbox */
     justify-content: space-between; /* Even spacing between items */
     align-items: center;        /* Aligns items vertically */
-    padding: 10px;              /* Adds padding inside the container */
+    padding: 5px;              /* Adds padding inside the container */
     background-color: #111;     /* Optional: background for clarity */
-    font-size: 12px;            /* Text size */
+    font-size: 10px;            /* Text size */
     color: white;
     gap: 10px;                  /* Spacing between items */
 }
